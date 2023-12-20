@@ -17,6 +17,7 @@ Content consists of the following folders and respective project work:
         - Objective: Build a classification model to predict clients that are more likely to default on their loan, while providing recommendations to the bank on important factors that affect loan default versus clients that successfuly pay off their loans
 - Deep Learning: Food Image Classification
   - Build a classification model to help label images of food into three different categories.
+  - Note: .zip folder containing data/images for this project are unavailable due to large file size
 - Recommendation Systems: Book Recommendation
   - Objective: Build three types of Recommendation Systems (Knowledge/Rank Based recommendation system, Similarity-Based Collaborative filtering, Matrix Factorization Based Collaborative Filtering) to recommend books
  
